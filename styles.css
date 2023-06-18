@@ -186,3 +186,8 @@ blockquote {
     font-weight: 900;
     
 }
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+}
