@@ -123,14 +123,30 @@ h2 {
 }
 
 .section-three{
+    display: flex;
     background-color: #E5E7Eb;
     font-size: 36px;
     font-style:italic;
     font-weight: 300;
     color: #1F2937;
-    padding: 50px;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;  
+}
 
+.quote-container {
+    width: 50%;
+    padding: 80px 0;
+}
 
+blockquote {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.thor {
+    text-align: end;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    padding-top: 0;
+    margin-top: 0;
 }
