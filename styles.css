@@ -40,13 +40,17 @@ ul {
     display: flex;
     list-style-type: none;
     margin: 0;
-    gap: 10px;
-    font-size: 18px;
-    color:#E5E7EB;
+    gap: 15px;
     padding: 0;
     white-space: nowrap;
     padding-top: 5px;
     
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color:#E5E7EB;
 }
 
 
