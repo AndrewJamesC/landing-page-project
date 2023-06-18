@@ -56,7 +56,24 @@ a {
 .section-one{
     display: flex;
     background-color: #1F2937;
-    padding: 20px;
+    justify-content: space-around;
+    
+}
+
+.box-left{
+    margin: 0;
+    padding-top: 100px;
+}
+
+.box-right {
+    margin: 0;
+    padding-top: 100px;
+    
+}
+
+.image{
+    height:auto;
+    width: 800px;
 }
 
 h1 {
