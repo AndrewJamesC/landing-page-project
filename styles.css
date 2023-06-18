@@ -56,21 +56,25 @@ a {
 .section-one{
     display: flex;
     background-color: #1F2937;
-    justify-content: space-around;
+    justify-content: center;
+    padding: 50px 0;
+    gap: 100px;
     
 }
 
 .box-left{
     margin: 0;
-    padding-top: 100px;
     margin: 50px;
+    width: 450px;
 }
 
 .box-right {
     margin: 0;
     padding-top: 100px;
     margin: 50px;
-    
+    background-color: grey;
+    height: 180px;
+    width: 550px;
 }
 
 .image{
